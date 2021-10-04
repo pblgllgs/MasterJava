@@ -1,3 +1,5 @@
+package tareas;
+
 import java.util.Scanner;
 
 public class TareaDosNumerosOrdenados {

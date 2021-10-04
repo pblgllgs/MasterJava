@@ -1,3 +1,5 @@
+package tareas;
+
 import javax.swing.*;
 
 public class TareaGasolina {

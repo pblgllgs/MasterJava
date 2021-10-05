@@ -1,3 +1,5 @@
+package flujosControl;
+
 import javax.swing.*;
 
 public class SentenciaIfElseNumDiasMes {

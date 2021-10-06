@@ -13,7 +13,7 @@ public class SentenciaForEach {
 
         for (String nombre:
              nombres) {
-            System.out.print(nombre);
+            System.out.print(" "+nombre);
         }
 
     }

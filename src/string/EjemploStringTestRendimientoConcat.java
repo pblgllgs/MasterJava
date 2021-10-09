@@ -22,6 +22,9 @@ public class EjemploStringTestRendimientoConcat {
             sb.append(a).append(b).append("\n"); //0,0.0,0
         }
 
+        //forzar una limpieza
+        System.gc();
+
         long fin = System.currentTimeMillis();
 
         System.out.println((fin-inicio));
@@ -30,6 +33,7 @@ public class EjemploStringTestRendimientoConcat {
 
         System.out.println("sb = " + sb.toString());
 
-
+        //Se ejecuta automaticamente
+        System.exit(0);
     }
 }

@@ -18,7 +18,5 @@ public class HolaMundo {
         }else {
             System.out.println("es falso");
         }
-
-
     }
 }
